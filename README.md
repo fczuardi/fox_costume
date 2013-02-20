@@ -7,6 +7,8 @@ Handmade fox costumes for your mobile devices
 This repository contains instructions and guides for handmade (crochet)
 fox costumes for mobile devices.
 
+<a href="http://www.flickr.com/photos/fabricio/8464040216/" title="Capinha versão 2 #crochet #keon #firefoxos by fczuardi, on Flickr"><img src="http://farm9.staticflickr.com/8093/8464040216_fffeefce96_z.jpg" width="612" height="612" alt="Capinha versão 2 #crochet #keon #firefoxos"></a>
+
 
 About
 -----

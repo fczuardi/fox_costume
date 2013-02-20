@@ -25,7 +25,9 @@ February 18, 2013 - MWC blueprint (Zuardi v3)
 
 ### Photos ###
 
--
+- [https://plus.google.com/photos/100037457092927719672/albums/5847031223918642369](https://plus.google.com/photos/100037457092927719672/albums/5847031223918642369)
+- [https://lh6.googleusercontent.com/-UnTxjj3POlc/USTo81Q1eaI/AAAAAAAAAvk/9J4KaYkIE44/s829/13+-+2](https://lh6.googleusercontent.com/-UnTxjj3POlc/USTo81Q1eaI/AAAAAAAAAvk/9J4KaYkIE44/s829/13+-+2)
+- [https://lh4.googleusercontent.com/-8USx-pln2FE/USTo82rvunI/AAAAAAAAAvo/rtMF8YPziWc/s829/13+-+3](https://lh4.googleusercontent.com/-8USx-pln2FE/USTo82rvunI/AAAAAAAAAvo/rtMF8YPziWc/s829/13+-+3)
 
 
 February 12, 2013 - Carnahacking Ribeirão Preto
@@ -35,7 +37,7 @@ February 12, 2013 - Carnahacking Ribeirão Preto
 
 ### Photos ###
 
--
+- [https://lh3.googleusercontent.com/-HfK7umztnEU/USTo824eF4I/AAAAAAAAAvc/9LRwQQrujxA/s829/13+-+1](https://lh3.googleusercontent.com/-HfK7umztnEU/USTo824eF4I/AAAAAAAAAvc/9LRwQQrujxA/s829/13+-+1)
 
 
 February 11, 2013 - Itatiba Carnival (Zuardi v2)
@@ -59,6 +61,10 @@ February 01, 2013 - CParty improved (Zuardi v1)
 - better planned top part divided in 3 separated parts
 - beggining of the writing of the recipe for the top part
 - unfinished attempt, only top part produced
+
+### Photos ###
+
+- [https://lh3.googleusercontent.com/-qihz8BB5p4E/USTo8_9hhjI/AAAAAAAAAvI/h1JUcZ1CgxM/s912/13+-+4](https://lh3.googleusercontent.com/-qihz8BB5p4E/USTo8_9hhjI/AAAAAAAAAvI/h1JUcZ1CgxM/s912/13+-+4)
 
 
 February 01, 2013 - CParty original (Zuardi freestyle)

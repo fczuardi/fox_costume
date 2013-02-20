@@ -1,0 +1,44 @@
+round 1: cor. 25 + 1 p/ virar
+rounds 2:  25 pb + 1 p/ virar
+round 3: 25 pb
+round 4: 3pbx, 1cor, 19pb
+round 5: 15pb
+round 6: 14pb
+round 7, 8, 9: 13pb + 1 p/ virar
+round 10: 2pb, 2cor, 10pb, 1cor + 1p/ virar
+round 11: 15pb, 1cor + 1p/ virar
+round 12: 17pb + 1cor
+
+
+
+
+
+Orelhas (x2):
+
+round 01: magic circle of 6 (6)
+round 02: [inc, 2pb] x 2 (8)
+round 03: [inc, 3pb] x 2 (10)
+round 04: [inc, 4pb] x 2 (12)
+round 05: [inc, 5pb] x 2 (14)
+round 06: [inc, 6pb] x 2 (16)
+round 07: [inc, 7pb] x 2 (18)
+round 08: [inc, 8pb] x 2 (20)
+round 09: [inc, 9pb] x 2 (22)
+round 10: [inc, 10pb] x 2 (24)
+
+
+Topo:
+round 1: 51 corr. + pbx para fechar(51)
+round 2, 3:  1 corr. para dar o tamanho do pb da volta volta no pb até 4 pontos antes de completar a volta (47)
+round 4: 1 corr. para dar o tamanho do pb da volta volta no pb até 4 pontos antes de completar a volta + 4 corr. + 1 pbx para fechar + 5 pbx (56)
+round 5: 1 corr. 14 pb
+round 6: 1 corr. 1 dec, 12 pb, 1dec
+round 7: 1 corr. 1 dec, 10 pb, 1dec
+round 8: 1 corr. 1 dec, 8 pb, 1dec
+r 9, 10, 11: 7pb
+r 12: inc + meio + inc (9)
+r 13: inc + meio + inc (11)
+
+[vira do avesso]
+
+[emenda]

@@ -6,7 +6,8 @@ Original concept and recipe
 
  - Fabricio C Zuardi <fabricio@fabricio.org>
    - http://fabricio.org
-   - http://mnmo.com
+   - https://github.com/mnmo
+   - https://github.com/fczuardi
 
 
 Aditional patches and adaptations

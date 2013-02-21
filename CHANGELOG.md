@@ -6,11 +6,13 @@ February 20, 2013 - MWC special (Cândida remix v1)
 - number of stiches adapted for a bigger stich size (fewer stiches)
 - more polished holes (with some half-double crochet to make equal heights)
 - better tail shape
-- ?? pieces produced
+- 6 pieces produced
 
 ### Photos ###
 
--
+- [gifts for special Mozillians to be delivered at MWC](https://plus.google.com/photos/100037457092927719672/albums/5847242628076823041)
+- [Candida's batch of 6 costumes](https://plus.google.com/photos/100037457092927719672/albums/5847209989302565153)
+- [album of the preparation of the MWC gifts](https://plus.google.com/u/0/100037457092927719672/posts/XuZDyHAXYDc)
 
 
 February 18, 2013 - MWC blueprint (Zuardi v3)

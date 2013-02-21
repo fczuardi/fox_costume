@@ -13,4 +13,6 @@ Original concept and recipe
 Aditional patches and adaptations
 ---------------------------------
 
- - Cândida
+ - Cândida Santos <candida9santos@gmail.com>
+    - http://www.facebook.com/decio.bueno.92?fref=ts
+    - Tasca Ecosol <tasca.ecosol@gmail.com>
